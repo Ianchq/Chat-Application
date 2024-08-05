@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="we_will_send_you_a">We will send you a</string>
+    <string name="verification_password">Verification Password</string>
+</resources>
